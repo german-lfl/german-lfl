@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 🇧🇷
 👋 Olá, sou German um ✨Desenvolvedor Java✨.
-Atualmente estou fazendo o curso 📔Fullcycle 3.0 para expandir meus conhecimentos, para outras areas.
+Atualmente estou fazendo o curso 📔Fullcycle 3.0 para expandir meus conhecimentos alem do backend.
 
 🇺🇸
 👋 Hi, I'm German a ✨Java Developer✨.
